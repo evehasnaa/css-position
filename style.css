@@ -1,0 +1,74 @@
+h1
+{
+  font-size: 75px;
+  text-align: center;
+  list-style: 10;
+  margin: 0;
+  padding: 20px;
+  border: 10px;
+ 
+}
+h1 h2 h3{
+  color: #232323;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body
+  {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      background-color: #fff;
+      padding: 2px;
+  }
+  #menue {
+      padding: 20px;
+      background-color: #fff;
+      position: fixed;
+      right: 0;
+      top: 0;
+      bottom: 0;
+  }
+  /*
+  .emoji .first
+  {
+      
+      position: relative;
+      top: -20px;
+  
+   
+  }
+  .emoji .second
+  {
+    
+      position: relative;
+      left: -90 px;
+      top: -1;
+      
+      color: white;
+  }
+  .emoji .third
+  {
+   
+      position: relative;
+     left: -51px;
+    top: -0.5px;
+    
+  }
+    */
+  img
+  {
+     
+     
+      display: block;
+   
+  }
+  .img1 
+  {
+      display: block;
+      margin: 30px auto;
+      width: 150px;
+  }
+  .img2
+  {
+      display: block;
+      margin: 30px auto;
+      width: 75%;
+  }
